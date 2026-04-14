@@ -1,0 +1,6 @@
+{
+  "name": "ScriptoNourish",
+  "description": "Cloud-based AI pipeline combining Neural Analysis and Scripted Logic to eliminate food waste through computer vision and data analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI Image Analysis", "Waste Analytics", "Inventory Optimization"]
+}
